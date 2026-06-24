@@ -120,7 +120,7 @@ lrmis/
 | **Staff Dashboard** | <img src="images/Staff_dash.png" width="400"/> |
 | **Submit Application** | <img src="images/Form.png" width="400"/> |
 | **Parcel Map** | <img src="images/Map.png" width="400"/> |
-| **Application Details** | <img src="images/application_details.png" width="400"/> |
+| **Application Details** | <img src="images/application_de.png" width="400"/> |
 
 ---
 
@@ -128,7 +128,7 @@ lrmis/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone [https://github.com/abdallahabed/lrmis.git](https://github.com/abdallahabed/lrmis.git)
+git clone https://github.com/abdallahabed/lrmis.git
 
 ```
 
